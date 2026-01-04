@@ -1,0 +1,7 @@
+C:\Users\yu\Desktop\rama\task1c#\task1c#\bin\Debug\task1c#.exe.config
+C:\Users\yu\Desktop\rama\task1c#\task1c#\bin\Debug\task1c#.exe
+C:\Users\yu\Desktop\rama\task1c#\task1c#\bin\Debug\task1c#.pdb
+C:\Users\yu\Desktop\rama\task1c#\task1c#\obj\Debug\task1c#.csproj.AssemblyReference.cache
+C:\Users\yu\Desktop\rama\task1c#\task1c#\obj\Debug\task1c#.csproj.CoreCompileInputs.cache
+C:\Users\yu\Desktop\rama\task1c#\task1c#\obj\Debug\task1c#.exe
+C:\Users\yu\Desktop\rama\task1c#\task1c#\obj\Debug\task1c#.pdb
